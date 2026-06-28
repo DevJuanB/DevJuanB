@@ -1,179 +1,175 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atomiks/particles-js/master/docs/images/demo.gif" alt="Banner con efecto de partículas" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=DevJuanB&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Student%20•%20Builder%20•%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%" alt="Header"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hola+%F0%9F%91%8B%2C+Soy+[DevJuanB];Software+Engineering+Student;Innovador+Tecnológico;Creador+de+Soluciones)
-  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=2000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+scalable+systems;Learning+in+public;Clean+code%2C+real+solutions)](https://git.io/typing-svg)
+
 </div>
 
-<div align="center">
+---
+
+### 📍 About Me
+
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+        Software engineering student with <strong>6+ years</strong> of practical experience developing full‑stack applications and cloud‑native solutions. I thrive at the intersection of <strong>elegant architecture</strong> and <strong>business impact</strong>, always writing code that is clean, tested, and maintainable.
+      </p>
+      <ul>
+        <li>🎓 Pursuing a <strong>Software Engineering</strong></li>
+        <li>🔭 Currently deep‑diving into <strong>distributed systems</strong> and <strong>AI integration</strong></li>
+        <li>🤝 Open to collaborations on <strong>open‑source</strong> and <strong>startup projects</strong></li>
+        <li>⚡ Fun fact: I automate everything that can be automated</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="180px" alt="Coding"/>
+      <br/>
+      <sub>📍 Medellín, Colombia</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Technical Proficiencies
+
+I work across the entire stack, from database design to front‑end polish. Here are the tools I use most frequently:
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/>
+      <br/>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/>
+      <br/>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
+      <br/>React
+    </td>
+    <td align="center" width="90">
+      <!-- Sustituido por Devicon -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+      <br/>Next.js
+    </td>
+    <td align="center" width="90">
+      <!-- Sustituido por Devicon -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+      <br/>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/>
+      <br/>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+      <br/>K8s
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40"/>
+      <br/>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40"/>
+      <br/>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+      <br/>MySQL
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>📋 Full technology list</summary>
+<br/>
   
-  ![Visitas](https://komarev.com/ghpvc/?username=DevJuanB&style=flat-square&color=00F7FF)
-  ![Seguidores](https://img.shields.io/github/followers/DevJuanB?style=social&color=00F7FF)
-  ![Estrellas](https://img.shields.io/github/stars/DevJuanB?style=social&color=00F7FF)
-  
-</div>
+| Category        | Technologies                                                                 |
+|-----------------|------------------------------------------------------------------------------|
+| **Languages**   | JavaScript, TypeScript, Python, Java, Rust, C++                             |
+| **Frontend**    | React, Next.js, Vue, Tailwind CSS, Sass, Three.js                           |
+| **Backend**     | Node.js, Express, NestJS, Django, Spring Boot, GraphQL                      |
+| **Databases**   | MongoDB, MySQL, PostgreSQL, Redis, Firebase, Supabase                       |
+| **DevOps/Cloud**| Docker, Kubernetes, AWS, Azure, GCP, Terraform, CI/CD (GitHub Actions)      |
+| **Tools**       | Git, Linux, Vim, Postman, Figma, Jira                                       |
 
-<br>
+</details>
 
-<div align="center">
-  
-  | <img src="https://github-readme-stats.vercel.app/api?username=DevJuanB&show_icons=true&theme=aura&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF" alt="Estadísticas" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanB&theme=aura&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="Racha" width="400"/> |
-  | :---: | :---: |
-  
-</div>
+---
 
-<br>
+### 🚀 Featured Work
 
-<h2 align="center">🚀 Navegación</h2>
-<div align="center">
-  
-  [![Sobre Mí](https://img.shields.io/badge/SOBRE_MÍ-000?style=for-the-badge&logo=atom&logoColor=00F7FF&labelColor=0d1117)](#-sobre-mí)
-  [![Tecnologías](https://img.shields.io/badge/TECNOLOGÍAS-000?style=for-the-badge&logo=stackblitz&logoColor=00F7FF&labelColor=0d1117)](#-tecnologías)
-  [![Proyectos](https://img.shields.io/badge/PROYECTOS-000?style=for-the-badge&logo=replicate&logoColor=00F7FF&labelColor=0d1117)](#-proyectos-destacados)
-  [![Contacto](https://img.shields.io/badge/CONTACTO-000?style=for-the-badge&logo=minutemailer&logoColor=00F7FF&labelColor=0d1117)](#-contacto)
-  
-</div>
+✨ *Exciting projects are on the horizon...* ✨  
 
-<br>
+---
 
-<h2 align="center" id="-sobre-mí">👨‍💻 Sobre Mí</h2>
+#### Coming Soon: MindLink OpenSource
+> Scalable real‑time collaboration platform  
+> *Currently under wraps — stay tuned!*  
 
-```bash
-#!/bin/bash
+![Status](https://img.shields.io/badge/Status-Coming%20Soon-ff69b4?style=for-the-badge&logo=github)
 
-# [DevJuanB]@github:~$ whoami
-# > Estudiante De Ingeniería de software con 3 años de experiencia en el sector
+---
 
-# [DevJuanB]@github:~$ cat & dog intereses.txt
-# > Inteligencia Artificial | Realidad Aumentada | Blockchain | IoT
+#### Coming Soon: Api Central
+> AI‑powered library of powerful Free APIs  
+> *In development — launching soon!*  
 
-# [DevJuanB]@github:~$ find . -name "objetivos"
-# > Crear soluciones innovadoras que impacten positivamente
-# > Colaborar en proyectos de código abierto
-# > Aprender nuevas tecnologías cada día
+![Status](https://img.shields.io/badge/Status-Coming%20Soon-ff69b4?style=for-the-badge&logo=openai)
 
-# [DevJuanB]@github:~$ ./mi_vision.sh
-# > "Crear un futuro mejor a través del código"
-```
-<h2 align="center" id="-tecnologías">🛠️ Tecnologías</h2>
+---
 
-<div align="center">
-  
-  ### 💻 Lenguajes de Programación
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,rust,cpp&theme=dark&perline=6" alt="Lenguajes"/>
-  
-  ### 🎨 Frontend Development
-  <img src="https://skillicons.dev/icons?i=react,vue,next,sass,tailwind,threejs&theme=dark&perline=6" alt="Frontend"/>
-  
-  ### ⚙️ Backend Development
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,django,spring,graphql&theme=dark&perline=6" alt="Backend"/>
-  
-  ### 🗃️ Bases de Datos
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase&theme=dark&perline=6" alt="Bases de datos"/>
-  
-  ### 🛠️ Herramientas & DevOps
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git&theme=dark&perline=6" alt="Herramientas"/>
-  
-  ### 📊 Nivel de Dominio
-  <table>
-    <tr>
-      <td>JavaScript/TypeScript</td>
-      <td><img src="https://progress-bar.dev/95/?width=200&title=avanzado&color=00F7FF" alt="Nivel JS/TS"></td>
-    </tr>
-    <tr>
-      <td>React/Next.js</td>
-      <td><img src="https://progress-bar.dev/90/?width=200&title=avanzado&color=00F7FF" alt="Nivel React"></td>
-    </tr>
-    <tr>
-      <td>Node.js</td>
-      <td><img src="https://progress-bar.dev/85/?width=200&title=avanzado&color=00F7FF" alt="Nivel Node"></td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td><img src="https://progress-bar.dev/80/?width=200&title=avanzado&color=00F7FF" alt="Nivel Python"></td>
-    </tr>
-    <tr>
-      <td>Cloud Computing</td>
-      <td><img src="https://progress-bar.dev/75/?width=200&title=intermedio&color=00F7FF" alt="Nivel Cloud"></td>
-    </tr>
-  </table>
-  
-</div>
-
-<br>
-
-<h2 align="center" id="-proyectos-destacados">🚀 Proyectos Destacados</h2>
+🌟 *More projects will be revealed here shortly. Follow along for updates!*
 
 
 
-<br>
+> *You can find more of my work in the [repositories](https://github.com/DevJuanB?tab=repositories) section.*
 
-<h2 align="center">📈 Gráfica de Actividad</h2>
+---
 
-<div align="center">
-  
-  ![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=DevJuanB&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=00F7FF&line=00F7FF&color=00F7FF)
-  
-</div>
-
-<br>
-
-<h2 align="center">🏆 Logros</h2>
-
-<div align="center">
-  
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=DevJuanB&theme=onestar&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/DevJuanB/)
-  
-</div>
-
-<br>
-
-<h2 align="center" id="-contacto">📫 Contacto</h2>
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=000)](/)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000)](/)
-  [![Twitter](https://img.shields.io/badge/TWITTER-00F7FF?style=for-the-badge&logo=twitter&logoColor=000)](/)
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=firefox&logoColor=000)](/)
-  [![Discord](https://img.shields.io/badge/DISCORD-00F7FF?style=for-the-badge&logo=discord&logoColor=000)](https://discord.com/users/601865428117094401)
-  
-</div>
-
-<br>
-
-<h2 align="center">📊 Estadísticas en Tiempo Real</h2>
+### 📈 GitHub Analytics
 
 <div align="center">
-  
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanB&layout=compact&theme=aura&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff)
+
+  <a href="https://github.com/DevJuanB">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevJuanB&show_icons=true&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=3B82F6&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanB&theme=transparent&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=true"/>
+  </a>
   
 </div>
 
-<br>
-
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura)
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJuanB&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=3B82F6&line=3B82F6&color=3B82F6" width="95%"/>
 </div>
 
-<br>
-
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+%E2%9C%8C%EF%B8%8F;¡No+dudes+en+contactarme+para+colaborar!;El+futuro+se+construye+con+código+%F0%9F%91%8B" alt="Despedida" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanB&layout=compact&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&hide_border=true" width="40%"/>
 </div>
 
-<br>
+
+---
+
+### 📫 Connect With Me
+
+I'm always open to interesting conversations and collaboration opportunities.
+
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true" alt="Footer" width="100%"/>
-  
+
+[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsloungesystem@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-3B82F6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/601865428117094401)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=100&section=footer&reversal=true" width="100%"/>
 </div>
